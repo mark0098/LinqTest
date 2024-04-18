@@ -1,0 +1,14 @@
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\bin\Debug\net7.0\LinQConsole.exe
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\bin\Debug\net7.0\LinQConsole.deps.json
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\bin\Debug\net7.0\LinQConsole.runtimeconfig.json
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\bin\Debug\net7.0\LinQConsole.dll
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\bin\Debug\net7.0\LinQConsole.pdb
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.AssemblyInfoInputs.cache
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.AssemblyInfo.cs
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.csproj.CoreCompileInputs.cache
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.dll
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\refint\LinQConsole.dll
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.pdb
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.genruntimeconfig.cache
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\ref\LinQConsole.dll
