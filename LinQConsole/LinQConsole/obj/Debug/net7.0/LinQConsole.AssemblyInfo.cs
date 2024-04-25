@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LinQConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f9575f0a7906b10a93dda0862ea75de563c37438")]
 [assembly: System.Reflection.AssemblyProductAttribute("LinQConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LinQConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

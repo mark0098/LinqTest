@@ -12,3 +12,4 @@ C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\De
 C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.pdb
 C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.genruntimeconfig.cache
 C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\ref\LinQConsole.dll
+C:\Users\cruto\OneDrive\Documents\GitHub\LinqTest\LinQConsole\LinQConsole\obj\Debug\net7.0\LinQConsole.sourcelink.json

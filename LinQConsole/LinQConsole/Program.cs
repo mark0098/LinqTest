@@ -1,41 +1,29 @@
-﻿using System.Linq;
+﻿using System;
+using System.Linq;
 
-Console.WriteLine("Вариант 7");
+int[] numbers = { -3, -7, -2, -5, 8, 4, 9, 6 };
 
-int[] vectr = { -1, -2, -3, 5, 0, 3, 2, 1, 0 };
+// Находим индекс первого положительного элемента
+int firstPositiveIndex = Array.FindIndex(numbers, x => x > 0);
 
-Console.WriteLine("Дан массив");
-
-var selectedVectr = (from int i in vectr
-                     select i).ToList();
-
-foreach (int i in selectedVectr)
-    Console.Write(i + " ");
-
-Console.WriteLine(" ");
-
-Console.WriteLine("Задание:");
-Console.WriteLine("Найти среднее арифметическое отрицательных элементов массива,\r\nпредшествующих первому положительному элементу. Если по какой-либо" +
-    "\r\nпричине вычислить среднее арифметическое не удается, выдать об этом" +
-    "\r\nсообщение с указанием причины.");
-
-Console.WriteLine("выполненное задание:");
-var mission = from int i in vectr
-              where i < 0
-              select i;
-              
-
-
-
-
-
-int time = 0;
-int count = 0;
-
-foreach (int i in mission)
+if (firstPositiveIndex == -1)
 {
-    time += i;
-    count++;
+    Console.WriteLine("В массиве нет положительных элементов.");
+    return;
 }
 
-time = time / count;
+// Выбираем только отрицательные элементы до первого положительного и вычисляем их среднее
+var average = numbers.Take(firstPositiveIndex)
+                    .Where(x => x < 0)
+                    .Select(x => (double)x) // Преобразуем int в double
+                    .DefaultIfEmpty(double.NaN) // Если нет отрицательных элементов, вернуть NaN
+                    .Average();
+
+if (double.IsNaN(average))
+{
+    Console.WriteLine("Отрицательных элементов перед первым положительным элементом нет.");
+}
+else
+{
+    Console.WriteLine($"Среднее арифметическое отрицательных элементов: {average}");
+}
